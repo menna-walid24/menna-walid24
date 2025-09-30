@@ -23,9 +23,11 @@
 ## 🛠️ Languages & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
 ## 📫 Connect with Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/menna-walid-5b9379328/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/menna_walid105) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mennawalid1244@gmail.com) 
