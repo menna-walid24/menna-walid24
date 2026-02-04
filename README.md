@@ -13,7 +13,7 @@
 - 🧩 Passionate about **Competitive Programming**  
 - 🏆 Participated in **ECPC 2025** → **1st place at university level**  
 - 🎓 Student at **Zagazig National University – Computer Science (AI Program)**  
-- ⚡ Active **Problem Solver** on [Codeforces](https://codeforces.com/profile/menna_walid105) & [AtCoder](https://atcoder.jp/users/menna_walid105)  
+- ⚡ Active **Problem Solver** on [Codeforces](https://codeforces.com/profile/menna_walid105)   
 - 🌟 Always exploring **new technologies**  
 
 ---
