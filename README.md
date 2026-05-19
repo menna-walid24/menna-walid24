@@ -21,11 +21,13 @@
 ## 🛠️ Languages & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
-![Numpy](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
-![Pandas](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
-![PHP](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
-![Database](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Numpy](https://img.shields.io/badge/NumPy-336791?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-336791?style=for-the-badge&logo=pandas&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-336791?style=for-the-badge&logo=php&logoColor=white)
+![Database](https://img.shields.io/badge/Database-336791?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## 📫 Connect with Me
