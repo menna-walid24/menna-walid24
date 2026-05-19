@@ -9,7 +9,7 @@
 ---
 
 ##  About Me
-- 📖 Currently learning **AI & Problem Solving**  
+- 📖 Currently learning **BackEnd & Problem Solving**  
 - 🧩 Passionate about **Competitive Programming**  
 - 🏆 Participated in **ECPC 2025** → **1st place at university level**  
 - 🎓 Student at **Zagazig National University – Computer Science (AI Program)**  
